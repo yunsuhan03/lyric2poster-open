@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn>=0.30
+pydantic>=2.6
+pillow>=10
+torch
+diffusers>=0.32
+transformers
+accelerate
+sentencepiece
+protobuf

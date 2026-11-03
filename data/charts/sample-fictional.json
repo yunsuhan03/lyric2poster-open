@@ -1,0 +1,11 @@
+{
+ "chart_id": "sample-fictional",
+ "label": "Sample chart (fictional songs, for tests)",
+ "source": "demo",
+ "fetched_at": "2026-11-02T00:00:00+00:00",
+ "tracks": [
+  {"rank": 1, "title": "Paper Lanterns", "artist": "Example Band", "listeners": 0, "url": ""},
+  {"rank": 2, "title": "Midnight Tunnel", "artist": "Sample Artist", "listeners": 0, "url": ""},
+  {"rank": 3, "title": "Long Summer", "artist": "Placeholder Duo", "listeners": 0, "url": ""}
+ ]
+}
