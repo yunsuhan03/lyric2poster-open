@@ -1,0 +1,8 @@
+streamlit>=1.40
+anthropic>=2.0
+pydantic>=2.6
+pillow>=10
+requests>=2.31
+gradio_client>=1.4
+# Optional second LLM provider. Remove if you only use Claude:
+openai>=1.50
